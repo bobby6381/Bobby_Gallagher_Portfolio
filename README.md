@@ -1,8 +1,7 @@
 # Bobby Gallagher's Portfolio
 
-# Bobby Gallagher
-
 ## Purpose
+To design interesting & fascinating websites and keep my skills sharp. 
 This is my portfolio of websites and git hub repositories.
 
 ## Built With
